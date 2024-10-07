@@ -6,12 +6,5 @@
 
 `yarn start`
 
-
-`yarn test`
-
-
-
-`yarn build`
-
-
-
+implementacion de CRUD en:
+/orders
